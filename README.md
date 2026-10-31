@@ -7,5 +7,7 @@ dependencies {
     implementation("androidx.compose.material3:material3")
 
     // 👈 أضف هذا السطر المهم جداً لتشغيل الأيقونات الجديدة
-    implementation("androidx.compose.material:material-icons-extended")
+implementation("androidx.compose.material:material-icons-extended")// 👈 أضف هذا السطر المهم جداً لتشغيل الأيقونات الجديدة
+    // 👈 أضف هذا السطر المهم جداً لتشغيل الأيقونات الجديدة
+implementation("androidx.compose.material:material-icons-extended")implementation("androidx.compose.material:material-icons-extended")
 }
